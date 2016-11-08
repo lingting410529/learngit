@@ -1,2 +1,2 @@
-this is test file.
-please delete it.
+Git is a distributed version control system.
+Git is free software.
