@@ -1,0 +1,12 @@
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+$ git init   
+
+$ rm -rf .git  // 删除.git  
+$ git config --global core.autocrlf false  //禁用自动转换  
+
+//重新初始化版本仓库
+$ git init    
+$ git add .
